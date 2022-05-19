@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @18Joel
+- 👋 Hi, I’m Joel Joseph
 - 👀 I’m interested in CODEING
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning REACT JS
+- 📫 Reach me on 18joel15@gmail.com
 
 <!---
 18Joel/18Joel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
